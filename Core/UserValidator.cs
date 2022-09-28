@@ -7,10 +7,10 @@ namespace Pract2.Core
 {
     public class UserValidator
     {
-        public bool Validate(User user)
+        public bool Validate(User user, string login, string password)
         {
             int k = 0;
-            if (user.Login == user.Login && user.Password == user.Password)
+            if (user.Login == login && user.Password == password)
             {
                 k++;
             }

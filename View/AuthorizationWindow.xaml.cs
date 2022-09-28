@@ -2,6 +2,7 @@
 using Pract2.Models;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -24,27 +25,26 @@ namespace Pract2.View
         {
             InitializeComponent();
 
-            _usersList = new List<User>();
-            _usersList.Add(new User("sama", "samasama", "Самира", "Тугуз", "Сальбиевна"));
-            _usersList.Add(new User("nata", "natanata", "Наталья", "Попова", "Максимовна"));
-            _usersList.Add(new User("art", "artart", "Артем", "Дудка", "Духовой"));
+            _usersList = UserParser.Parse("users3.txt").ToList();
+           // MessageBox.Show(users[5].ToString());
         }
 
         private void btnSignIn_Click(object sender, RoutedEventArgs e)
         {
+            bool valid = false;
             foreach(var list in _usersList)
             {
-                if (new UserValidator().Validate(list))
+                if (new UserValidator().Validate(list, tbLogin.Text, tbPassword.Password))
                 {
-                    new DashboardWindow().Show();
-                    break;
-                }
-                else
-                {
-                    MessageBox.Show("Неверный логин или пароль");
+                    valid = true;
                     break;
                 }
             }
+            if (valid)
+            {
+                new DashboardWindow().Show();
+            }
+            else MessageBox.Show("Неверный логин или пароль");
             
         }
     }
