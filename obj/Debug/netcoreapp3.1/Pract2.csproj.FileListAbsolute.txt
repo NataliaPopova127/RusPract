@@ -20,3 +20,31 @@ D:\IS-33\Popova Natalia\Pract2\obj\Debug\netcoreapp3.1\Pract2.csproj.CoreCompile
 D:\IS-33\Popova Natalia\Pract2\obj\Debug\netcoreapp3.1\Pract2.dll
 D:\IS-33\Popova Natalia\Pract2\obj\Debug\netcoreapp3.1\Pract2.pdb
 D:\IS-33\Popova Natalia\Pract2\obj\Debug\netcoreapp3.1\Pract2.genruntimeconfig.cache
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\bin\Debug\netcoreapp3.1\Pract2.exe
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\bin\Debug\netcoreapp3.1\Pract2.deps.json
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\bin\Debug\netcoreapp3.1\Pract2.runtimeconfig.json
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\bin\Debug\netcoreapp3.1\Pract2.runtimeconfig.dev.json
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\bin\Debug\netcoreapp3.1\Pract2.dll
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\bin\Debug\netcoreapp3.1\Pract2.pdb
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.csproj.AssemblyReference.cache
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\AuthorizationWindow.g.cs
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\DashboardWindow.g.cs
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2_MarkupCompile.cache
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2_MarkupCompile.lref
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\AuthorizationWindow.baml
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\DashboardWindow.baml
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.g.resources
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.AssemblyInfoInputs.cache
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.AssemblyInfo.cs
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.dll
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.pdb
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.genruntimeconfig.cache
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\AdminWindow.g.cs
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\ClientWindow.g.cs
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\ManagerWindow.g.cs
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\ClientWindow.baml
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\ManagerWindow.baml
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\AdminWindow.baml

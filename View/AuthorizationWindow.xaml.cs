@@ -24,28 +24,32 @@ namespace Pract2.View
         public AuthorizationWindow()
         {
             InitializeComponent();
-
             _usersList = UserParser.Parse("users3.txt").ToList();
-           // MessageBox.Show(users[5].ToString());
         }
 
         private void btnSignIn_Click(object sender, RoutedEventArgs e)
         {
-            bool valid = false;
-            foreach(var list in _usersList)
+            try
             {
-                if (new UserValidator().Validate(list, tbLogin.Text, tbPassword.Password))
+                UserValidator userValidator = new UserValidator();
+                if (userValidator.ValidateLoginAndPassword(_usersList, tbLogin.Text, tbPassword.Password))
                 {
-                    valid = true;
-                    break;
+                    if (userValidator.ValidateRole(userValidator.CurrentUser) == 1)
+                        new ClientWindow().Show();
+                    else if (userValidator.ValidateRole(userValidator.CurrentUser) == 2)
+                        new AdminWindow().Show();
+                    else if (userValidator.ValidateRole(userValidator.CurrentUser) == 3)
+                        new ManagerWindow().Show();
+                    else if (userValidator.ValidateRole(userValidator.CurrentUser) == 0)
+                        MessageBox.Show("Неизвестная роль");
+                    Close();
                 }
+                else MessageBox.Show("Неверный логин или пароль");
             }
-            if (valid)
+            catch(Exception ex)
             {
-                new DashboardWindow().Show();
+                MessageBox.Show(ex.Message);
             }
-            else MessageBox.Show("Неверный логин или пароль");
-            
         }
     }
 }
