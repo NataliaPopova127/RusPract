@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Natalia\\Source\\Repos\\NataliaPopova127\\RusPract\\Pract2.csproj": {}
+    "C:\\Users\\Natalia\\source\\repos\\NataliaPopova127\\RusPract\\Pract2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Natalia\\Source\\Repos\\NataliaPopova127\\RusPract\\Pract2.csproj": {
+    "C:\\Users\\Natalia\\source\\repos\\NataliaPopova127\\RusPract\\Pract2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Natalia\\Source\\Repos\\NataliaPopova127\\RusPract\\Pract2.csproj",
+        "projectUniqueName": "C:\\Users\\Natalia\\source\\repos\\NataliaPopova127\\RusPract\\Pract2.csproj",
         "projectName": "Pract2",
-        "projectPath": "C:\\Users\\Natalia\\Source\\Repos\\NataliaPopova127\\RusPract\\Pract2.csproj",
+        "projectPath": "C:\\Users\\Natalia\\source\\repos\\NataliaPopova127\\RusPract\\Pract2.csproj",
         "packagesPath": "C:\\Users\\Natalia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natalia\\Source\\Repos\\NataliaPopova127\\RusPract\\obj\\",
+        "outputPath": "C:\\Users\\Natalia\\source\\repos\\NataliaPopova127\\RusPract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
