@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:Pract2"
              StartupUri="View/AuthorizationWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary Source="Assets/ResourcesDictionaries/StyleDictionary.xaml"/>
     </Application.Resources>
 </Application>

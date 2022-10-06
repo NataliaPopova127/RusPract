@@ -22,8 +22,23 @@
     <Compile Update="View\ManagerWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="View\Pages\Page1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\Page2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\UsersPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Assets\ResourcesDictionaries\ColorDictionary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\ResourcesDictionaries\StyleDictionary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="View\AdminWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
@@ -37,6 +52,15 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="View\ManagerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\Page1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\Page2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\UsersPage.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

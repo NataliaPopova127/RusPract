@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Pract2.View.Pages;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Windows;
@@ -20,6 +21,21 @@ namespace Pract2.View
         public DashboardWindow()
         {
             InitializeComponent();
+        }
+
+        private void btnClient_Click(object sender, RoutedEventArgs e)
+        {
+            mainFrame.Navigate(new UsersPage());
+        }
+
+        private void btnManager_Click(object sender, RoutedEventArgs e)
+        {
+            mainFrame.Navigate(new Page1());
+        }
+
+        private void btnAdmin_Click(object sender, RoutedEventArgs e)
+        {
+            mainFrame.Navigate(new Page2());
         }
     }
 }
