@@ -7,25 +7,25 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="View\AdminWindow.xaml.cs">
+    <Compile Update="View\Pages\AdminPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\AuthorizationWindow.xaml.cs">
+    <Compile Update="View\Pages\ManagerPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\ClientWindow.xaml.cs">
+    <Compile Update="View\Windows\AdminWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\DashboardWindow.xaml.cs">
+    <Compile Update="View\Windows\AuthorizationWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\ManagerWindow.xaml.cs">
+    <Compile Update="View\Windows\ClientWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\Pages\Page1.xaml.cs">
+    <Compile Update="View\Windows\DashboardWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\Pages\Page2.xaml.cs">
+    <Compile Update="View\Windows\ManagerWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="View\Pages\UsersPage.xaml.cs">
@@ -39,25 +39,25 @@
     <Page Update="Assets\ResourcesDictionaries\StyleDictionary.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\AdminWindow.xaml">
+    <Page Update="View\Pages\AdminPage.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\AuthorizationWindow.xaml">
+    <Page Update="View\Pages\ManagerPage.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\ClientWindow.xaml">
+    <Page Update="View\Windows\AdminWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\DashboardWindow.xaml">
+    <Page Update="View\Windows\AuthorizationWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\ManagerWindow.xaml">
+    <Page Update="View\Windows\ClientWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\Pages\Page1.xaml">
+    <Page Update="View\Windows\DashboardWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\Pages\Page2.xaml">
+    <Page Update="View\Windows\ManagerWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="View\Pages\UsersPage.xaml">

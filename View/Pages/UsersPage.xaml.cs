@@ -22,7 +22,7 @@ namespace Pract2.View.Pages
         public UsersPage()
         {
             InitializeComponent();
-            dgUsers.ItemsSource = AuthorizationWindow.usersList.Where(u => u.Role.Equals("Client"));
+            dgUsers.ItemsSource = AuthorizationWindow.UsersList.Where(u => u.Role.Equals("Client"));
         }
     }
 }

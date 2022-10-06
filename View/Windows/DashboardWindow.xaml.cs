@@ -30,12 +30,12 @@ namespace Pract2.View
 
         private void btnManager_Click(object sender, RoutedEventArgs e)
         {
-            mainFrame.Navigate(new Page1());
+            mainFrame.Navigate(new ManagerPage());
         }
 
         private void btnAdmin_Click(object sender, RoutedEventArgs e)
         {
-            mainFrame.Navigate(new Page2());
+            mainFrame.Navigate(new AdminPage());
         }
     }
 }

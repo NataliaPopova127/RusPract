@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\IS-33 Popova\RusPract\obj\Release\netcoreapp3.1\
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Release\netcoreapp3.1\
 Pract2
 none
 false
 TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
-D:\IS-33 Popova\RusPract\App.xaml
-5-1036737127
+C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\App.xaml
+10278223150
 
-101939396202
+13-1183561426
 192-1533232326
-View\AdminWindow.xaml;View\AuthorizationWindow.xaml;View\ClientWindow.xaml;View\DashboardWindow.xaml;View\ManagerWindow.xaml;
+Assets\ResourcesDictionaries\ColorDictionary.xaml;Assets\ResourcesDictionaries\StyleDictionary.xaml;View\AdminWindow.xaml;View\AuthorizationWindow.xaml;View\ClientWindow.xaml;View\DashboardWindow.xaml;View\ManagerWindow.xaml;View\Pages\Page1.xaml;View\Pages\Page2.xaml;View\Pages\UsersPage.xaml;
 
 True
 

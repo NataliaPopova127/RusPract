@@ -20,11 +20,11 @@ namespace Pract2.View
     /// </summary>
     public partial class AuthorizationWindow : Window
     {
-        public static List<User> usersList;
+        public static List<User> UsersList { get; set; }
         public AuthorizationWindow()
         {
             InitializeComponent();
-            usersList = UserParser.Parse("users3.txt").ToList();
+            UsersList = UserParser.Parse("users3.txt").ToList();
         }
 
         private void btnSignIn_Click(object sender, RoutedEventArgs e)
@@ -32,7 +32,7 @@ namespace Pract2.View
             try
             {
                 UserValidator userValidator = new UserValidator();
-                if (userValidator.ValidateLoginAndPassword(usersList, tbLogin.Text, tbPassword.Password))
+                if (userValidator.ValidateLoginAndPassword(UsersList, tbLogin.Text, tbPassword.Password))
                 {
                     //if (userValidator.ValidateRole(userValidator.CurrentUser) == 1)
                     //    new ClientWindow().Show();

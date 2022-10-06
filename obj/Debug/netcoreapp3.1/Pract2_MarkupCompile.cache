@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\IS-33 Popova\RusPract\obj\Debug\netcoreapp3.1\
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\
 Pract2
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-D:\IS-33 Popova\RusPract\App.xaml
-10278223150
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\App.xaml
+10-1170977710
 
-13-1183561426
+13-1000470864
 192-1533232326
-Assets\ResourcesDictionaries\ColorDictionary.xaml;Assets\ResourcesDictionaries\StyleDictionary.xaml;View\AdminWindow.xaml;View\AuthorizationWindow.xaml;View\ClientWindow.xaml;View\DashboardWindow.xaml;View\ManagerWindow.xaml;View\Pages\Page1.xaml;View\Pages\Page2.xaml;View\Pages\UsersPage.xaml;
+Assets\ResourcesDictionaries\ColorDictionary.xaml;Assets\ResourcesDictionaries\StyleDictionary.xaml;View\Pages\AdminPage.xaml;View\Pages\ManagerPage.xaml;View\Pages\UsersPage.xaml;View\Windows\AdminWindow.xaml;View\Windows\AuthorizationWindow.xaml;View\Windows\ClientWindow.xaml;View\Windows\DashboardWindow.xaml;View\Windows\ManagerWindow.xaml;
 
 False
 

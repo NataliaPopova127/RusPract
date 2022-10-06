@@ -8,19 +8,19 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Pract2.View.Pages
+namespace Pract2.View
 {
     /// <summary>
-    /// Логика взаимодействия для Page1.xaml
+    /// Логика взаимодействия для AdminWindow.xaml
     /// </summary>
-    public partial class Page1 : Page
+    public partial class AdminWindow : Window
     {
-        public Page1()
+        public AdminWindow()
         {
             InitializeComponent();
+            dgUsers.ItemsSource = AuthorizationWindow.UsersList;
         }
     }
 }

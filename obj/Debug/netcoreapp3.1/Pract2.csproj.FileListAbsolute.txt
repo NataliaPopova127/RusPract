@@ -27,13 +27,9 @@ C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\bin\Debug\netcoreapp3.1\
 C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\bin\Debug\netcoreapp3.1\Pract2.dll
 C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\bin\Debug\netcoreapp3.1\Pract2.pdb
 C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.csproj.AssemblyReference.cache
-C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\AuthorizationWindow.g.cs
-C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\DashboardWindow.g.cs
 C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2_MarkupCompile.cache
 C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2_MarkupCompile.lref
-C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\AuthorizationWindow.baml
-C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\DashboardWindow.baml
 C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.g.resources
 C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.AssemblyInfoInputs.cache
@@ -42,12 +38,6 @@ C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\
 C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.dll
 C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.pdb
 C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.genruntimeconfig.cache
-C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\AdminWindow.g.cs
-C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\ClientWindow.g.cs
-C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\ManagerWindow.g.cs
-C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\ClientWindow.baml
-C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\ManagerWindow.baml
-C:\Users\Natalia\Source\Repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\AdminWindow.baml
 D:\IS-33 Popova\RusPract\bin\Debug\netcoreapp3.1\Pract2.exe
 D:\IS-33 Popova\RusPract\bin\Debug\netcoreapp3.1\Pract2.deps.json
 D:\IS-33 Popova\RusPract\bin\Debug\netcoreapp3.1\Pract2.runtimeconfig.json
@@ -85,3 +75,22 @@ D:\IS-33 Popova\RusPract\obj\Debug\netcoreapp3.1\Pract2.csproj.CoreCompileInputs
 D:\IS-33 Popova\RusPract\obj\Debug\netcoreapp3.1\Pract2.dll
 D:\IS-33 Popova\RusPract\obj\Debug\netcoreapp3.1\Pract2.pdb
 D:\IS-33 Popova\RusPract\obj\Debug\netcoreapp3.1\Pract2.genruntimeconfig.cache
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Assets\ResourcesDictionaries\ColorDictionary.baml
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Assets\ResourcesDictionaries\StyleDictionary.baml
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Pages\AdminPage.g.cs
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Pages\ManagerPage.g.cs
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Pages\UsersPage.g.cs
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\AdminWindow.g.cs
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\AuthorizationWindow.g.cs
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\ClientWindow.g.cs
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\DashboardWindow.g.cs
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\ManagerWindow.g.cs
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Pages\AdminPage.baml
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Pages\ManagerPage.baml
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Pages\UsersPage.baml
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\AdminWindow.baml
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\AuthorizationWindow.baml
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\ClientWindow.baml
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\DashboardWindow.baml
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\ManagerWindow.baml
