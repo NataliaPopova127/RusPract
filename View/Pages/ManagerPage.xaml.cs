@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Pract2.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,7 +23,7 @@ namespace Pract2.View.Pages
         public ManagerPage()
         {
             InitializeComponent();
-            dgManager.ItemsSource = AuthorizationWindow.UsersList.Where(u => u.Role.Equals("Manager"));
+            dgManager.ItemsSource = AdminViewModel.UsersList.Where(u => u.Role.Equals("Manager"));
         }
     }
 }

@@ -25,7 +25,7 @@ namespace Pract2.View
 
         private void btnClient_Click(object sender, RoutedEventArgs e)
         {
-            mainFrame.Navigate(new UsersPage());
+            mainFrame.Navigate(new ClientPage());
         }
 
         private void btnManager_Click(object sender, RoutedEventArgs e)

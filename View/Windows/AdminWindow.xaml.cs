@@ -20,7 +20,6 @@ namespace Pract2.View
         public AdminWindow()
         {
             InitializeComponent();
-            dgUsers.ItemsSource = AuthorizationWindow.UsersList;
         }
     }
 }

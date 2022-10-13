@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Pract2.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,12 +18,12 @@ namespace Pract2.View.Pages
     /// <summary>
     /// Логика взаимодействия для UsersPage.xaml
     /// </summary>
-    public partial class UsersPage : Page
+    public partial class ClientPage : Page
     {
-        public UsersPage()
+        public ClientPage()
         {
             InitializeComponent();
-            dgUsers.ItemsSource = AuthorizationWindow.UsersList.Where(u => u.Role.Equals("Client"));
+            dgUsers.ItemsSource = AdminViewModel.UsersList.Where(u => u.Role.Equals("Client"));
         }
     }
 }

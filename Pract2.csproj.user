@@ -28,7 +28,7 @@
     <Compile Update="View\Windows\ManagerWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\Pages\UsersPage.xaml.cs">
+    <Compile Update="View\Pages\ClientPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -60,7 +60,7 @@
     <Page Update="View\Windows\ManagerWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="View\Pages\UsersPage.xaml">
+    <Page Update="View\Pages\ClientPage.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

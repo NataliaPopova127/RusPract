@@ -79,7 +79,6 @@ C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\
 C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Assets\ResourcesDictionaries\StyleDictionary.baml
 C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Pages\AdminPage.g.cs
 C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Pages\ManagerPage.g.cs
-C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Pages\UsersPage.g.cs
 C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\AdminWindow.g.cs
 C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\AuthorizationWindow.g.cs
 C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\ClientWindow.g.cs
@@ -88,7 +87,6 @@ C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\
 C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\App.baml
 C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Pages\AdminPage.baml
 C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Pages\ManagerPage.baml
-C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Pages\UsersPage.baml
 C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\AdminWindow.baml
 C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\AuthorizationWindow.baml
 C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Windows\ClientWindow.baml
@@ -131,3 +129,6 @@ C:\Users\Student\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\
 C:\Users\Student\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.dll
 C:\Users\Student\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.pdb
 C:\Users\Student\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\Pract2.genruntimeconfig.cache
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Pages\ClientPage.g.cs
+C:\Users\Natalia\source\repos\NataliaPopova127\RusPract\obj\Debug\netcoreapp3.1\View\Pages\ClientPage.baml

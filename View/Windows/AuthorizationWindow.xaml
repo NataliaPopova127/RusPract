@@ -24,6 +24,6 @@
             <TextBlock Text="Пароль"  Margin="10"/>
             <TextBox Text="{Binding Password}" Margin="10"/>
         </StackPanel>
-        <Button x:Name="btnSignIn" Grid.Row="2" Click="btnSignIn_Click">Войти</Button>
+        <Button Grid.Row="2" Command="{Binding SignInCommand}">Войти</Button>
     </Grid>
 </Window>

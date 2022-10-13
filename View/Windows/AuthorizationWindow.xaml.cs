@@ -20,37 +20,10 @@ namespace Pract2.View
     /// </summary>
     public partial class AuthorizationWindow : Window
     {
-        public static List<User> UsersList { get; set; }
+        
         public AuthorizationWindow()
         {
             InitializeComponent();
-            UsersList = UserParser.Parse("users3.txt").ToList();
-        }
-
-        private void btnSignIn_Click(object sender, RoutedEventArgs e)
-        {
-            try
-            {
-                UserValidator userValidator = new UserValidator();
-                if (userValidator.ValidateLoginAndPassword(UsersList, tbLogin.Text, tbPassword.Password))
-                {
-                    //if (userValidator.ValidateRole(userValidator.CurrentUser) == 1)
-                    //    new ClientWindow().Show();
-                    //else if (userValidator.ValidateRole(userValidator.CurrentUser) == 2)
-                    //    new AdminWindow().Show();
-                    //else if (userValidator.ValidateRole(userValidator.CurrentUser) == 3)
-                    //    new ManagerWindow().Show();
-                    //else if (userValidator.ValidateRole(userValidator.CurrentUser) == 0)
-                    //    MessageBox.Show("Неизвестная роль");
-                    new DashboardWindow().Show();
-                    Close();
-                }
-                else MessageBox.Show("Неверный логин или пароль");
-            }
-            catch(Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
         }
     }
 }

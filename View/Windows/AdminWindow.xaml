@@ -4,11 +4,29 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Pract2.View"
+        xmlns:viewmodel="clr-namespace:Pract2.ViewModel"
         mc:Ignorable="d"
         Title="AdminWindow" Height="450" Width="800">
+    <Window.DataContext>
+        <viewmodel:AdminViewModel/>
+    </Window.DataContext>
     <Grid>
-        <TextBlock Text="Admin" FontSize="50" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-
-        <DataGrid x:Name="dgUsers"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <Button Command="{Binding OpenClientPageCommand}"
+                    Content="Client"/>
+            <Button Command="{Binding OpenManagerPageCommand}"
+                    Content="Manager"
+                    />
+            <Button Command="{Binding OpenAdminPageCommand}"
+                    Content="Admin"
+                   />
+        </StackPanel>
+        <Frame Content="{Binding SelectedPage}" 
+               Grid.Column="1"
+               NavigationUIVisibility="Hidden"/>
     </Grid>
 </Window>
